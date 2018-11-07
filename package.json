@@ -1,0 +1,11 @@
+{
+    "name": "chat front-end",
+    "devDependencies": {
+        "webpack": "^4.23.1",
+        "webpack-cli": "^3.1.2"
+    },
+    "dependencies": {
+        "html-loader": "^0.5.5",
+        "style-loader": "^0.23.1"
+    }
+}
